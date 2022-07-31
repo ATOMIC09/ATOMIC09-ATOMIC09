@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
