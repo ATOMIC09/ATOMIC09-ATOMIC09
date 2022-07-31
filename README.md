@@ -105,7 +105,9 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://camo.githubusercontent.com/3966a545c2b11a6fdaf1eba86918ac23ff8f380ba4ea24cb66edf6bcf83d768f/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3737383836383837393536373838303139322f313030323739313938393230363538353433342f70617468697068616e736f61702e706e673f77696474683d373037266865696768743d333938"  />
+  <a href="https://youtu.be/nGZkCtMLpww">
+    <img height="500" src="https://camo.githubusercontent.com/3966a545c2b11a6fdaf1eba86918ac23ff8f380ba4ea24cb66edf6bcf83d768f/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3737383836383837393536373838303139322f313030323739313938393230363538353433342f70617468697068616e736f61702e706e673f77696474683d373037266865696768743d333938"  />
+  </a>
 </div>
 
 ###
@@ -114,8 +116,8 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ATOMIC09.ATOMIC09&left_color=crimson&right_color=tomato"  />
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ATOMIC09.ATOMIC09&left_color=crimson&right_color=tomato"  />
 </div>
 
 ###
