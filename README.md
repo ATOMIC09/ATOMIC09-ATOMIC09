@@ -61,13 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
 </div>
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/blob/output/snake.svg" alt="Snake animation 1" />
-<img href="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation 2" />
-<img href="https://cdn.jsdelivr.net/gh/ATOMIC09/ATOMIC09/snake.svg" alt="Snake animation 3" />
-
 ###
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 ###
