@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! My name is Atom (aka. Atomic)</h1>
 
-🔭 I’m currently working on Discord.Py Bot [Miura-SLASH](https://github.com/ATOMIC09/Miura-SLASH)<br><br>
-🌱 I’m currently learning **Python, Unreal Engine, OpenCV**<br><br>
+🔭 I’m currently working on [Miura-SLASH](https://github.com/ATOMIC09/Miura-SLASH), [YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot), [SongKanBaan](https://github.com/ATOMIC09/SongKanBaan)<br><br>
+🌱 I’m currently learning **Python, Unreal Engine**<br><br>
 📫 Contact **phutawanchanrueng@gmail.com**<br><br>
 ⚡ Fun fact **Meme maker? Soundboard player?**
 
@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/EjptgqWnYc">
+  <a href="https://discords.com/bio/p/atomic09">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  />
   </a>
   <a href="https://facebook.com/phutawan.chanrueng">
@@ -48,17 +48,12 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
   <img src="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation" />
 </div>
 
