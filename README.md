@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi! My name is Atom (aka. Atomic)</h1>
 
 🔭 I’m currently working on [Miura-SLASH](https://github.com/ATOMIC09/Miura-SLASH), [YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot), [SongKanBaan](https://github.com/ATOMIC09/SongKanBaan)<br><br>
-🌱 I’m currently learning **Python, Unreal Engine**<br><br>
+🌱 I’m currently learning **Python, ?**<br><br>
 📫 Contact **phutawanchanrueng@gmail.com**<br><br>
-⚡ Fun fact **Meme maker? Soundboard player?**
+⚡ Fun fact **Meme maker? Soundboard player?**<br><br>
+🗣️ Quote [**อย่าส่องผมเลย**](https://youtu.be/dQw4w9WgXcQ)
 
 ###
 
@@ -49,11 +50,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="42" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" width="42" alt="premiere pro logo"  />
   <img src="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation" />
 </div>
 
@@ -107,6 +110,7 @@
 
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ATOMIC09.ATOMIC09&left_color=crimson&right_color=tomato"  />
+    <h6 align="center">เดี๋ยว มันมาจากไหนเยอะแยะ</h6>
 </div>
 
 ###
