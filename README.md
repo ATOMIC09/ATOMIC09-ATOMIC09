@@ -1,5 +1,6 @@
-<h1 align="center">👋 Hi! My name is Atom (aka. Atomic)</h1>
+<h1 align="center">Some places that start to feel a bit unminimal</h1>
 
+👋 Hi! My name is Atom (aka. Atomic)<br><br>
 🔭 I’m currently working on [Miura-SLASH](https://github.com/ATOMIC09/Miura-SLASH), [YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot), [SongKanBaan](https://github.com/ATOMIC09/SongKanBaan)<br><br>
 🌱 I’m currently learning **Python, ?**<br><br>
 📫 Contact **phutawanchanrueng@gmail.com**<br><br>
