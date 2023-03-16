@@ -1,11 +1,12 @@
 <h1 align="center">Some places that start to feel a bit unminimal</h1>
+<h6 align="center">Optimized for dark mode.</h6>
 
 👋 Hi! My name is Atom (aka. Atomic)<br><br>
-🔭 I’m currently working on [Miura-SLASH](https://github.com/ATOMIC09/Miura-SLASH), [YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot), [SongKanBaan](https://github.com/ATOMIC09/SongKanBaan)<br><br>
-🌱 I’m currently learning **Python, ?**<br><br>
+🔭 I’m currently working on **[YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot)**<br><br>
+🌱 I’m currently learning **?**<br><br>
 📫 Contact **phutawanchanrueng@gmail.com**<br><br>
 ⚡ Fun fact **Meme maker? Soundboard player?**<br><br>
-🗣️ Quote [**อย่าส่องผมเลย**](https://youtu.be/dQw4w9WgXcQ)
+🗣️ Quote [**อย่ากดนะ**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)
 
 ###
 
