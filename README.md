@@ -29,11 +29,11 @@
 </div>
 
 ###
-👋 Hi! My name is Atom (aka. Atomic)<br><br>
-🔭 I’m currently working on **[YuukaDiscordBot](https://github.com/ATOMIC09/YuukaDiscordBot)**<br><br>
+👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
+🔭 I’m currently working on [**YuukaDiscordBot**](https://github.com/ATOMIC09/YuukaDiscordBot)<br><br>
 🌱 I’m currently learning **?**<br><br>
 📫 Contact **phutawanchanrueng@gmail.com**<br><br>
-⚡ Fun fact **[Meme maker?](https://youtu.be/QqjGi20qmVQ)**<br><br>
+⚡ Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
 🗣️ Quote [**Do not click**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)
 
 <h1 align="center"></h1>
