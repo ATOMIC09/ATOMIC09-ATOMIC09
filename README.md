@@ -30,13 +30,14 @@
 
 ###
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
-🔭 I’m currently working on [**YuukaDiscordBot**](https://github.com/ATOMIC09/YuukaDiscordBot)<br><br>
+🔭 I’m currently working on **?**<br><br>
 🌱 I’m currently learning **?**<br><br>
 📫 Contact **phutawanchanrueng@gmail.com**<br><br>
 ⚡ Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
 🗣️ Quote [**Do not click**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)
 
-<h1 align="center"></h1>
+<details>
+<summary><h1 align="center">Badge & Statistic</h1></summary>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -62,18 +63,24 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atomic09&theme=onestar&no-frame=true&no-bg=false&margin-w=1" />
 </div>
+</details>
 
-<br>
-<h1 align="center">🤔 Somewhere to show something</h1>
+<details>
+<summary><h1 align="center">Other</h1></summary>
 <div align="center">
   <a href="https://youtu.be/thybJjixXw0">
     <img height="500" src="https://i3.ytimg.com/vi/thybJjixXw0/maxresdefault.jpg"  />
   </a>
   <h5 align="center">ใครจะไม่หลังหักบ้างล่ะ</h5>
 </div>
+</details>
 
 <br>
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ATOMIC09.ATOMIC09&left_color=crimson&right_color=tomato"  />
-    <h6 align="center">เดี๋ยว มันมาจากไหนเยอะแยะ</h6>
+    <img src="https://komarev.com/ghpvc/?username=atomic09&label=visitors&color=3a87fe&style=flat" alt="atomic09" />
+    <br>
+    <img src="https://profile-counter.glitch.me/ATOMIC09/count.svg" />
+    <h6 align="center">ต้องมีสักอันที่ถูกแหละ</h6>
 </div>
+
