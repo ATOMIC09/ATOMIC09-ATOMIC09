@@ -1,5 +1,4 @@
-<h1 align="center">" Some places start to feel a bit unminimal "</h1>
-<h6 align="center">Optimized for dark mode.</h6>
+<h1 align="center">HelloWorld("print")</h1>
 <br>
 <div align="center">
   <a href="https://discords.com/bio/p/atomic09">
@@ -32,27 +31,68 @@
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
 🔭 I’m currently working on **?**<br><br>
 🌱 I’m currently learning **?**<br><br>
-📫 Contact **phutawanchanrueng@gmail.com**<br><br>
-⚡ Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
-🗣️ Quote [**Do not click**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)
+👨‍💻 All of my projects and contacts are available at [this](https://atomicphutawan.vercel.app/)<br><br>
+📫 Email **phutawanchanrueng@gmail.com**<br><br>
+🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
+🗣️ Quote [**Do not click!**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)
 
 <details>
-<summary><h1 align="center">Badge & Statistic</h1></summary>
-<br>
+<summary><h1 align="center">Stack & Statistic</h1></summary>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" width="42" alt="heroku logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="42" alt="blender logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" width="42" alt="premiere pro logo"  />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+  <br>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target"_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo" /> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>   
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  /> </a>
+  <a href="https://slack.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  /> </a>
+  <a href="https://www.adobe.com/th_th/products/premiere.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" width="42" alt="premiere pro logo"  /> </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+    
   <img src="https://raw.githubusercontent.com/ATOMIC09/ATOMIC09/output/snake.svg" alt="Snake animation" />
 </div>
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&username=ATOMIC09" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="languages graph"  />
@@ -69,9 +109,9 @@
 <summary><h1 align="center">Other</h1></summary>
 <div align="center">
   <a href="https://youtu.be/thybJjixXw0">
-    <img height="500" src="https://i3.ytimg.com/vi/thybJjixXw0/maxresdefault.jpg"  />
+    <img height="300" src="https://i3.ytimg.com/vi/thybJjixXw0/maxresdefault.jpg"  />
   </a>
-  <h5 align="center">ใครจะไม่หลังหักบ้างล่ะ</h5>
+  <h5 align="center">ผู้ใช้ iPad Pro ปี 2020 กำลังร่ำไห้</h5>
 </div>
 </details>
 
@@ -82,5 +122,6 @@
     <br>
     <img src="https://profile-counter.glitch.me/ATOMIC09/count.svg" />
     <h6 align="center">ต้องมีสักอันที่ถูกแหละ</h6>
+    <img height="200" width="200" src="https://cdn.discordapp.com/attachments/778868879567880192/1137768394603642891/output-onlinegiftools.gif" />
 </div>
 
