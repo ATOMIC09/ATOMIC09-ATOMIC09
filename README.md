@@ -19,17 +19,14 @@
   <a href="https://twitter.com/atomic_phutawan">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"  />
   </a>
-  <a href="https://youtube.com/c/dermediaproduction">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube1"  />
-  </a>
-  <a href="https://youtube.com/channel/UCr7JiLK-AVQoXAOEWHpHhlg">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube2"  />
+  <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=YouTube%20Subscribers!&style=social" alt="derYouTube"  />
   </a>
 </div>
 
 ###
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
-🔭 I’m currently working on **?**<br><br>
+🔭 I’m currently working on **[?](https://github.com/ATOMIC09?tab=repositories)**<br><br>
 🌱 I’m currently learning **?**<br><br>
 👨‍💻 All of my projects and contacts are available at [this](https://atomicphutawan.vercel.app/)<br><br>
 📫 Email **phutawanchanrueng@gmail.com**<br><br>
