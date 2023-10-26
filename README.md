@@ -26,7 +26,7 @@
 
 ###
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
-🔭 I’m currently working on **[?](https://github.com/ATOMIC09?tab=repositories)**<br><br>
+💻 I’m currently working on **[?](https://github.com/ATOMIC09?tab=repositories)**<br><br>
 🌱 I’m currently learning **?**<br><br>
 👨‍💻 All of my projects and contacts are available at [this](https://atomicphutawan.vercel.app/)<br><br>
 📫 Email **phutawanchanrueng@gmail.com**<br><br>
@@ -36,6 +36,7 @@
 <details>
 <summary><h1 align="center">Stack & Statistic</h1></summary>
 <div align="center">
+  <h6 align="center">แค่แตะนี่นับมั้ยอะ🤔</h6>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -108,7 +109,9 @@
   <a href="https://youtu.be/thybJjixXw0">
     <img height="300" src="https://i3.ytimg.com/vi/thybJjixXw0/maxresdefault.jpg"  />
   </a>
-  <h5 align="center">ผู้ใช้ iPad Pro ปี 2020 กำลังร่ำไห้</h5>
+  <br/>
+  <br/>
+  <p>ผู้ใช้ iPad Pro ปี 2020 กำลังร่ำไห้</p>
 </div>
 </details>
 
@@ -118,7 +121,7 @@
     <img src="https://komarev.com/ghpvc/?username=atomic09&label=visitors&color=3a87fe&style=flat" alt="atomic09" />
     <br>
     <img src="https://profile-counter.glitch.me/ATOMIC09/count.svg" />
-    <h6 align="center">ต้องมีสักอันที่ถูกแหละ</h6>
+    <h6 align="center">ต้องมีสักอันที่ถูกแหละนะ แต่ว่าใครมันเล่นพิเรนทร์ทำ 2 ล้านวิวล่ะนั่น🗿</h6>
     <img height="200" width="200" src="https://cdn.discordapp.com/attachments/778868879567880192/1137768394603642891/output-onlinegiftools.gif" />
 </div>
 
