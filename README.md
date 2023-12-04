@@ -1,4 +1,4 @@
-<h1 align="center">helloguystodaywehavealistof("printf")</h1>
+<h1 align="center">Hello guys Today we have a list of ...</h1>
 <br>
 <div align="center">
   <a href="https://discords.com/bio/p/atomic09">
@@ -16,11 +16,11 @@
   <a href="https://stackoverflow.com/users/17368904">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"  />
   </a>
-  <a href="https://twitter.com/atomic_phutawan">
+  <a href="https://twitter.com/intent/follow?screen_name=atomic_phutawan">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"  />
   </a>
   <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=YouTube%20Subscribers!&style=social" alt="derYouTube"  />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=YouTube&style=social" alt="derYouTube"  />
   </a>
 </div>
 
@@ -31,7 +31,8 @@
 👨‍💻 All of my projects and contacts are available at [this](https://atomicphutawan.vercel.app/)<br><br>
 📫 Email **phutawanchanrueng@gmail.com**<br><br>
 🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
-🗣️ Quote [**Do not click!**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)
+🗣️ Quote [**อย่านะ**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)<br><br>
+😉 This is [**not** rick roll](https://youtu.be/-g03jC71GBw?si=BIpmuTHtRgAJNmkh)
 
 <details>
 <summary><h1 align="center">Stack & Statistic</h1></summary>
