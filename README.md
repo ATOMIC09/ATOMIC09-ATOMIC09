@@ -1,4 +1,5 @@
 <h1 align="center">Hello guys Today we have a list of ...</h1>
+<h6 align="center">Optimized for Dark mode</h6>
 <br>
 <div align="center">
   <a href="https://discords.com/bio/p/atomic09">
@@ -34,7 +35,7 @@
 🗣️ Quote [**อย่านะ**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)<br><br>
 😉 This is [**not** rick roll](https://youtu.be/-g03jC71GBw?si=BIpmuTHtRgAJNmkh)
 
-<details>
+<details open>
 <summary><h1 align="center">Stack & Statistic</h1></summary>
 <div align="center">
   <h6 align="center">แค่แตะนี่นับมั้ยอะ🤔</h6>
