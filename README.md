@@ -139,8 +139,9 @@
     <img src="https://komarev.com/ghpvc/?username=atomic09&label=visitors&color=3a87fe&style=flat" alt="atomic09" />
     <br>
     <img src="https://profile-counter.glitch.me/ATOMIC09/count.svg" />
-    <h6 align="center">ต้องมีสักอันที่ถูกแหละนะ แต่ว่าใครมันเล่นพิเรนทร์ทำ 2 ล้านวิวล่ะนั่น🗿</h6>
+    <h6 align="center">ต้องมีสักอันที่ถูกแหละนะ</h6>
     <img height="200" width="200" src="https://cdn.discordapp.com/attachments/778868879567880192/1137768394603642891/output-onlinegiftools.gif" />
+    <h6 align="center">ว่าแต่ใครมันเล่นพิเรนทร์ทำ 2 ล้านวิววะนั่น🗿</h6>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=66838025)
