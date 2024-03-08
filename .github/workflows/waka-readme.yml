@@ -2,11 +2,14 @@ name: Waka Readme
 
 on:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-  # for manual workflow trigger
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
 
+  push:
+    branches:
+    - master
+    
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
