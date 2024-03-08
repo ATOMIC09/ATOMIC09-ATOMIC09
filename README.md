@@ -113,6 +113,11 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&username=ATOMIC09" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomic09&theme=dark&hide_border=true&card_width=320&langs_count=15&theme=vision-friendly-dark&hide_border=true&username=ATOMIC09" height="150" alt="languages graph"  />
+  <img src="./profile-3d-contrib/profile-customize.svg"  />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atomic09&theme=onestar&no-frame=true&no-bg=false&margin-w=1" />
   <!--START_SECTION:waka-->
 
 ```python
@@ -132,11 +137,6 @@ Other        25 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-  <img src="./profile-3d-contrib/profile-customize.svg"  />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atomic09&theme=onestar&no-frame=true&no-bg=false&margin-w=1" />
 </div>
 </details>
 
@@ -148,7 +148,7 @@ Other        25 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   </a>
   <br/>
   <br/>
-  <p>ผู้ใช้ iPad Pro ปี 2020 กำลังร่ำไห้</p>
+  <p>"ผู้ใช้ iPad Pro ปี 2020 กำลังร่ำไห้"</p>
 </div>
 </details>
 
