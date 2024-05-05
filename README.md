@@ -141,6 +141,7 @@
       WakaTime Statistics
     </h1>
   </div>
+  <div align="center">
   <!--START_SECTION:waka-->
 
 ```rust
@@ -161,6 +162,7 @@ YAML              56 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+  </div>
 </div>
 <br>
 <div align="center">
