@@ -5,7 +5,7 @@
   <a href="https://discords.com/bio/p/atomic09">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  />
   </a>
-  <a href="https://facebook.com/phutawan.chanrueng">
+<!--   <a href="https://facebook.com/phutawan.chanrueng">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"  />
   </a>
   <a href="https://instagram.com/phutawan_chanrueng">
@@ -19,6 +19,9 @@
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=atomic_phutawan">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"  />
+  </a> -->
+  <a href="https://wakatime.com/@018d9e20-7204-40cc-9d2f-4231bc99a8de">
+    <img src="https://wakatime.com/badge/user/018d9e20-7204-40cc-9d2f-4231bc99a8de.svg" alt="Total time coded since Feb 12 2024" />
   </a>
   <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=YouTube&style=social" alt="derYouTube"  />
@@ -29,11 +32,11 @@
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
 💻 I’m currently working on **[?](https://github.com/ATOMIC09?tab=repositories)**<br><br>
 🌱 I’m currently learning **?**<br><br>
-👨‍💻 All of my projects and contacts are available at [this](https://atomicphutawan.vercel.app/)<br><br>
+👨‍💻 All of my projects and contacts are available at [this](https://atomic09.vercel.app/)<br><br>
 📫 Email **phutawanchanrueng@gmail.com**<br><br>
 🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
-🗣️ Quote [**อย่านะ**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)<br><br>
-😉 This is [**not** rick roll](https://youtu.be/-g03jC71GBw?si=BIpmuTHtRgAJNmkh)
+🗣️ Quote [**อ ย่ า ก ด น ะ**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)<br><br>
+😉 This is [**not** a rick roll](https://youtu.be/-g03jC71GBw?si=BIpmuTHtRgAJNmkh)
 
 <details open>
 <summary><h1 align="center">Stack & Statistic</h1></summary>
@@ -55,8 +58,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="NextJs" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" /></a>
+<!--   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" /></a> -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
@@ -65,8 +68,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" height="40" alt="Express" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+<!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a> -->
   <br>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
