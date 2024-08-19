@@ -2,7 +2,7 @@
 <h6 align="center">Optimized for Dark mode</h6>
 <br>
 <div align="center">
-  <a href="https://discords.com/bio/p/atomic09">
+  <a href="https://discords.com/bio/p/atomic09" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  />
   </a>
 <!--   <a href="https://facebook.com/phutawan.chanrueng">
@@ -20,10 +20,10 @@
   <a href="https://twitter.com/intent/follow?screen_name=atomic_phutawan">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"  />
   </a> -->
-  <a href="https://wakatime.com/@018d9e20-7204-40cc-9d2f-4231bc99a8de">
+  <a href="https://wakatime.com/@018d9e20-7204-40cc-9d2f-4231bc99a8de" target="_blank" rel="noreferrer">
     <img src="https://wakatime.com/badge/user/018d9e20-7204-40cc-9d2f-4231bc99a8de.svg" alt="Total time coded since Feb 12 2024" />
   </a>
-  <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=Click+Please&style=social" alt="derYouTube"  />
   </a>
 </div>
