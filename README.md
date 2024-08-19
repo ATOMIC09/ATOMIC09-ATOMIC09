@@ -24,7 +24,7 @@
     <img src="https://wakatime.com/badge/user/018d9e20-7204-40cc-9d2f-4231bc99a8de.svg" alt="Total time coded since Feb 12 2024" />
   </a>
   <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=YouTube&style=social" alt="derYouTube"  />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=Click+Please&style=social" alt="derYouTube"  />
   </a>
 </div>
 
