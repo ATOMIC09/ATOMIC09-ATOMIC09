@@ -1,30 +1,15 @@
 <h1 align="center">Hello guys Today we have a list of ...</h1>
-<h6 align="center">Optimized for Dark mode</h6>
+<h6 align="center">If you send a friend request, please let me know your Discord username. I think I have too many scam friend requests :/</h6>
 <br>
 <div align="center">
   <a href="https://discords.com/bio/p/atomic09" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"  />
   </a>
-<!--   <a href="https://facebook.com/phutawan.chanrueng">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"  />
-  </a>
-  <a href="https://instagram.com/phutawan_chanrueng">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"  />
-  </a>
-  <a href="https://reddit.com/user/ATOMIC_PHUTAWAN">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"  />
-  </a>
-  <a href="https://stackoverflow.com/users/17368904">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"  />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=atomic_phutawan">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"  />
-  </a> -->
   <a href="https://wakatime.com/@018d9e20-7204-40cc-9d2f-4231bc99a8de" target="_blank" rel="noreferrer">
     <img src="https://wakatime.com/badge/user/018d9e20-7204-40cc-9d2f-4231bc99a8de.svg" alt="Total time coded since Feb 12 2024" />
   </a>
   <a href="https://www.youtube.com/channel/UC3FvuPtV_Ry46j5m-I2zcjg?sub_confirmation=1" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=Click+Please&style=social" alt="derYouTube"  />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC3FvuPtV_Ry46j5m-I2zcjg?label=Subscribe!&style=social" alt="derYouTube"  />
   </a>
 </div>
 
