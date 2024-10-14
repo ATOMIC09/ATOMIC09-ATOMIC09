@@ -17,11 +17,11 @@
 👋 Hi! My name is **Atom** (aka. Atomic)<br><br>
 💻 I’m currently working on **[?](https://github.com/ATOMIC09?tab=repositories)**<br><br>
 🌱 I’m currently learning **?**<br><br>
-👨‍💻 All of my projects and contacts are available at [this](https://atomic09.vercel.app/)<br><br>
 📫 Email **phutawanchanrueng@gmail.com**<br><br>
 🤣 Fun fact [**Meme maker?**](https://youtu.be/QqjGi20qmVQ)<br><br>
 🗣️ Quote [**อ ย่ า ก ด น ะ**](https://ooooooooooooooooooooooo.ooo/ooooοооoοᴏοoοᴏοoοᴏooοᴏoᴏoᴏооoоᴏᴏoоᴏᴏοᴏоοοоᴏᴏοᴏοοοᴏοoοᴏοοoоᴏоοоoоοоοοoоᴏᴏοоοoοοoοοᴏοᴏoᴏοoοᴏοᴏoᴏоοοοοᴏοоοᴏοοоoοоoᴏοοoο)<br><br>
-😉 This is [**not** a rick roll](https://youtu.be/-g03jC71GBw?si=BIpmuTHtRgAJNmkh)
+😉 This is [**not** a rick roll](https://youtu.be/-g03jC71GBw?si=BIpmuTHtRgAJNmkh)<br><br>
+🖼️ Profile credit is [here](https://www.miyoushe.com/ys/article/47924217)
 
 <details open>
 <summary><h1 align="center">Stack & Statistic</h1></summary>
